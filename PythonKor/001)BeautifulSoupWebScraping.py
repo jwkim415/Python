@@ -69,3 +69,6 @@ for i in result: #result리스트 안의 요소를 하나씩 가져옵니다.
     
 with open("d:\\data\\mytext23.txt","w", encoding='UTF8') as f:#mydata2.txt를 생성하겠다.
     data=f.write(str(a)) #result에 있는 내용을 문자열로 변환해서 mydata2.txt로 생성한다.
+    
+    
+#기사출처: 김정민 . “[팩플]'베테랑 전문의' AI 의사, 한국은 100대 기업에 못 든다고?” 중앙일보, 중앙일보, 14 Dec. 2020, news.joins.com/article/23945435. 
